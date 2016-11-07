@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
-<script src="js/masonry.pkgd.min.js"></script>
-
+<script src="js/masonry.pkgd.js"></script>
+<script src="js/imagesloaded.pkgd.js"></script>
 
 <style>
 * { box-sizing: border-box; }
@@ -70,9 +70,6 @@ body { font-family: sans-serif; }
   <div class="grid-item">
     <img src="img/illustrations/manipulation.png" />
   </div>
-    
-    
-    
      <div class="grid-sizer"></div>
   <div class="grid-item">
     <img src="img/illustrations/aba.png" />
@@ -101,8 +98,6 @@ body { font-family: sans-serif; }
   <div class="grid-item">
     <img src="img/illustrations/Less_for_more.png" />
   </div>
-    
-    
      <div class="grid-sizer"></div>
   <div class="grid-item">
     <img src="img/illustrations/simplicity.png" />
@@ -112,6 +107,7 @@ body { font-family: sans-serif; }
   </div>
 </div>
 <br><br><br>
+
 <main class="main-content">
     <div class="container">
 <p>
@@ -149,4 +145,6 @@ imagesLoaded( grid ).on( 'progress', function() {
 });
  
 </script>
+
 <?php include("footer.php"); ?>
+
