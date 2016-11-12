@@ -42,7 +42,7 @@
 			<li class="label">Projects</li>
 
 			<li><a href="shows.php">Shows</a></li>
-			<li><a href="http://thebusinesdude.org">Podcast (Creole)</a></li>
+			<li><a href="http://thebusinessdude.org">Podcast (Creole)</a></li>
             <li><a href="press.php">Press</a></li>
 			<!--<li><a href="#0">Film</a></li>
             <li><a href="#0">GHUST 86</a></li>-->
