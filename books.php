@@ -73,11 +73,33 @@
             <h1>More books</h1><hr>
             <div class="section group">
             <div class="col span_1_of_2">
-            <img src="img/losttitle_jeanegustave.jpg" style="width:100%">
+            <img src="img/lost-title-jeaedouard.jpg" style="width:100%">
+                <h2>Lost Title</h2>
+            <p>
+            58 pages<br/>
+            Chapbook - Poetry<br/>
+            Full Color<br/>
+            2008<br>
+            English<br>
+            6 x 0.1 x 9<br>
+            ISBN: 1607034328<br>
+            Publish America
+            </p>
             </div>
                 
                 <div class="col span_1_of_2">
-            <img src="img/The-30th-Glim-Cover.jpg" style="width:100%">
+            <img src="img/la-cour-blasee.jpg" style="width:100%">
+                    <h2>La Cour Blasée</h2>
+            <p>
+            50 pages<br/>
+            Hard Cover | Poetry<br/>
+            Black and White<br/>
+            2005<br>
+            French<br>
+            5 x 0.1 x 8<br>
+            ISBN: N/A<br>
+            Publisher: N/A
+            </p>
             </div>
                 </div>
             
