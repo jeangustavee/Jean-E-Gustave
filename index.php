@@ -31,13 +31,6 @@
 				<b>What’s next?</b> If you would like to work with me or would like to collaborate, <a href="">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a>. Don't you think we could change the world?.
 
 			</p>
-
-            <hr>
-            <p><b>Get in touch? </b>Want to grab a drink and chat? Would you like to work together?</p>
-            <center><button class="button" href="#"><span>LET'S TALK</span></button></center>
-            <br>
-            <center><p><a href="https://www.instagram.com/explore/tags/iamjeanegustave/">#iamjeanegustave</a></p></center>
-            <br><center><img src="img/Jean-logo.png" alt="Logo" width="50px"><br><br>&copy 2016</center><br><br>
 			
 		</div>
 	</main>

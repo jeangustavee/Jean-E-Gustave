@@ -41,7 +41,7 @@
 
 			<li class="label">Projects</li>
 
-			<li><a href="shows.php">Shows</a></li>
+			<li><a href="events.php">Events</a></li>
 			<li><a href="http://thebusinessdude.org">Podcast (Creole)</a></li>
             <li><a href="press.php">Press</a></li>
 			<!--<li><a href="#0">Film</a></li>
@@ -54,7 +54,6 @@
 			<li class="cd-social cd-dribbble"><a href="https://dribbble.com/jeangustavee">Dribbble</a></li>
 			<li class="cd-social cd-twitter"><a href="http://twitter.com/jeangustavee">Twitter</a></li>
             <li><a href="credits.php">Credits</a></li>
-            <li><a href="credits.php">Contact</a></li>
 		</ul>
 	</nav>
             

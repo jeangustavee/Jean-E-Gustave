@@ -1,56 +1,8 @@
 <?php include("header.php"); ?>
-<style>
-/*  SECTIONS  */
-.section h1{
-    font-size: 34px;
-}
-.section p{
-    font-size: 24px;
-}
-.section {
-	clear: both;
-	padding: 0px;
-	margin: 0px;
-}
-
-/*  COLUMN SETUP  */
-.col {
-	display: block;
-	float:left;
-	margin: 1% 0 1% 4%;
-}
-.col:first-child { margin-left: 0; }
-
-/*  GROUPING  */
-.group:before,
-.group:after { content:""; display:table; }
-.group:after { clear:both;}
-.group { zoom:1; /* For IE 6/7 */ }
-
-/*  GRID OF TWO  */
-.span_2_of_2 {
-	width: 100%;
-}
-.span_1_of_2 {
-	width: 48%;
-}
-
-/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
-
-@media only screen and (max-width: 780px) {
-	.col { 
-		margin: 1% 0 1% 0%;
-	}
-}
-
-@media only screen and (max-width: 780px) {
-	.span_2_of_2, .span_1_of_2 { width: 100%; }
-}
-</style>
 <br><br>
 <main class="main-content">
 		<div class="container">
-			<h1>sak pase?<br>
+			<h1>Lisons ensemble!<br><br>
             Reading and writing <br>are my most ultimate comfort,<br>
             so embarque and follow my journeys</h1>
             
@@ -103,12 +55,7 @@
             </div>
                 </div>
             
-             <hr>
-            <p><b>Get in touch? </b>Want to grab a drink and chat? Would you like to work together?</p>
-            <center><button class="button" href="#"><span>LET'S TALK</span></button></center>
-            <br>
-            <center><p><a href="https://www.instagram.com/explore/tags/iamjeanegustave/">#iamjeanegustave</a></p></center>
-            <br><center><img src="img/Jean-logo.png" alt="Logo" width="50px"><br><br>&copy 2016</center><br><br>
+             
     </div>
 </main>
 
