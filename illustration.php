@@ -89,6 +89,9 @@ body { font-family: sans-serif; }
   <div class="grid-item">
     <img src="img/illustrations/Envious.png" />
   </div>
+    <div class="grid-item">
+    <img src="img/illustrations/sex-eat-web.png" />
+  </div>
   <div class="grid-item">
     <img src="img/illustrations/Illusion-01.png" />
   </div>
