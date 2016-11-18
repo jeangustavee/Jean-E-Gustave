@@ -30,24 +30,24 @@ th {
             <br><br>
             
             <h2 style="text-decoration:underline;">Upcoming shows</h2>
-            <p>No upcoming shows for now. Please check back later. </p><br><br>
+            <p>No upcoming shows/events for now. Please check back later. </p><br><br>
             
             <h2 style="text-decoration:underline;">Past shows</h2>
             <table>
   <tr>
-    <th>Location</th>
+    <th>Point</th>
     <th>Name/<br>Type</th>
     <th>Date</th>
   </tr>
   <tr>
     <td>FSCJ/<br>Jax, FL</td>
     <td>The Tradigital Waves/<br>Exhibition</td>
-    <td>8.11.2016</td>
+    <td>8 - 11 - 2016</td>
   </tr>
     <tr>
     <td>FSCJ/<br>Jax, FL</td>
     <td>30th Annual Student Exhibit of Art and Design/<br>Exhibition</td>
-    <td>4.16.2016</td>
+    <td>4 - 16 - 2016</td>
   </tr>
 </table>
           
