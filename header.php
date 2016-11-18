@@ -36,6 +36,7 @@
 			<li class="label">Creative</li>
 
             <li><a href="illustration.php">Minimalism</a></li>
+            <li><a href="http://anteanstudios.com" target="_blank">Work</a></li>
 			<li><a href="books.php">Books</a></li>
 			<li><a href="blog.php">Blog</a></li>
 
@@ -53,7 +54,6 @@
 			<li class="cd-social cd-instagram"><a href="http://instagram.com/iamjeanegustave">Instagram</a></li>
 			<li class="cd-social cd-dribbble"><a href="https://dribbble.com/jeangustavee">Dribbble</a></li>
 			<li class="cd-social cd-twitter"><a href="http://twitter.com/jeangustavee">Twitter</a></li>
-            <li><a href="credits.php">Credits</a></li>
 		</ul>
 	</nav>
             

@@ -29,10 +29,10 @@ th {
             </center><hr>
             <br><br>
             
-            <h2 style="text-decoration:underline;">Upcoming shows</h2>
+            <h2 style="text-decoration:underline;">Upcoming Events</h2>
             <p>No upcoming shows/events for now. Please check back later. </p><br><br>
             
-            <h2 style="text-decoration:underline;">Past shows</h2>
+            <h2 style="text-decoration:underline;">Past Events</h2>
             <table>
   <tr>
     <th>Point</th>

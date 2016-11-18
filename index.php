@@ -23,12 +23,12 @@
 			</p>
 
 			<p>
-				<b>Now.</b> Currently, I am an Art Director and Partner at <a href="http://anteanstudios.com" target="_blank">ANTEAN STUDIOS</a> where I work for great clients and collaborate with amazing artists. When I’m not at Antean Studios loosing my mind, you may find me doing shows or pushing on with <a href="http://viiatours.com" target="_blank"> VIIA TOURS</a> or <a href="http://citiskope.com">CitiSkope</a>.
+				<b>Now.</b> Currently, I am an Art Director and Partner at <a href="http://anteanstudios.com" target="_blank">ANTEAN STUDIOS</a> where I work for great clients and collaborate with amazing artists. When I’m not at Antean Studios loosing my mind, you may find me doing <a href="events.php">shows</a> or pushing on with <a href="http://viiatours.com" target="_blank"> VIIA TOURS</a> or <a href="http://citiskope.com" target="_blank">CitiSkope</a>.
 
 			</p>
 
 			<p>
-				<b>What’s next?</b> If you would like to work with me or would like to collaborate, <a href="">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a>. Don't you think we could change the world?.
+				<b>What’s next?</b> If you would like to work with me or would like to collaborate, <a href="mailto:jean.egustave@gmail.com">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a>. Don't you think we could change the world?
 
 			</p>
 			

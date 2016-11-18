@@ -1,5 +1,30 @@
 <?php include("header.php"); ?>
+<style>/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
 
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 0%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+/*  GRID OF THREE  */
+.span_3_of_3 { width: 100%; }
+.span_2_of_3 { width: 66.66%; }
+.span_1_of_3 { width: 33.33%; }
+</style>
 <br><br>
 <main class="main-content">
 		<div class="container">
@@ -12,7 +37,42 @@
             <p></p>
             
             <h1>PRESS PHOTOS</h1>
-            
+            <img src="img/press/Jeean_Gustave_11.jpg" width="100%">
+            <div class="section group">
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_7.jpg" width="100%">
+	</div>
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_3.jpg" width="100%">
+	</div>
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_9.jpg" width="100%">
+	</div>
+</div>
+            <div class="section group">
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_5.jpg" width="100%">
+	</div>
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_8.jpg" width="100%">
+	</div>
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_13.jpg" width="100%">
+	</div>
+</div>
+            <img src="img/press/Jeean_Gustave_12.jpg" width="100%">
+             <div class="section group">
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_1.jpg" width="100%">
+	</div>
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_10.jpg" width="100%">
+	</div>
+	<div class="col span_1_of_3">
+	<img src="img/press/Jeean_Gustave_2.jpg" width="100%">
+	</div>
+</div>
+            <p>All press pictures were shot by professional photographer <a href="http://russellalquizar.com/" target="_blank">Russell Alquizar</a> and must used with appropriate credits. To use images in magazines or books, please email Russell.</p>
             
             <div class="section group">
             <div class="col span_1_of_2">
@@ -25,6 +85,7 @@
                     <p>Not yet available.</p>
             </div>
                 </div>
+            <br><br>
     </div>
 </main>
 
