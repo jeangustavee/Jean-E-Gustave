@@ -18,11 +18,11 @@
 </head>
 <body>
 	<header class="jg-header">
-		<div class="logo"><a href="index.php"><img src="img/Jean-logo.png" alt="Logo" width="29px"></a></div>
+		<div class="logo"><a href="/"><img src="img/Jean-logo.png" alt="Logo" width="29px"></a></div>
 
 		<nav>
 			<ul class="secondary-nav">
-				<li><a href="#0">Shop</a></li>
+				<li><a href="#">Shop</a></li>
 			</ul>
 		</nav> <!-- nav -->
 
@@ -35,16 +35,16 @@
 		<ul class="primary-nav">
 			<li class="label">Creative</li>
 
-            <li><a href="illustration.php">Minimalism</a></li>
+            <li><a href="illustration">Minimalism</a></li>
             <li><a href="http://anteanstudios.com" target="_blank">Work</a></li>
-			<li><a href="books.php">Books</a></li>
-			<li><a href="blog.php">Blog</a></li>
+			<li><a href="books">Books</a></li>
+			<li><a href="blog">Blog</a></li>
 
 			<li class="label">Projects</li>
 
-			<li><a href="events.php">Events</a></li>
+			<li><a href="events">Events</a></li>
 			<li><a href="http://thebusinessdude.org" target="_blank">Podcast (Creole)</a></li>
-            <li><a href="press.php">Press</a></li>
+            <li><a href="press">Press</a></li>
 			<!--<li><a href="#0">Film</a></li>
             <li><a href="#0">GHUST 86</a></li>-->
 
