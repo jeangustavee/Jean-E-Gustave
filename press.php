@@ -82,12 +82,13 @@
             <div class="section group">
             <div class="col span_1_of_2">
         <h1>INTERVIEWS</h1>
-                <p> <a href="https://blogs.fscj.edu/digital_media/featured-student-jean-gustave/">FSCJ DEGITAL MEDIA</a> </p>
+                <p> <a href="http://www.blogprocess.com/interview-with-jean-edouard-gustave-entrepreneur-antean-studios-founder/" target="_blank">BLOG PROCESS</a> </p>
+                <p> <a href="https://blogs.fscj.edu/digital_media/featured-student-jean-gustave/" target="_blank">FSCJ DEGITAL MEDIA</a> </p>
             </div>
                 
                 <div class="col span_1_of_2">
          <h1>PRESS & FEATURES</h1>
-                    <p>Not yet available.</p>
+                    <p> <a href="http://blog.invoiceberry.com/2017/01/15-innovative-ideas-get-business-off-ground-expert-tips/" target="_blank">InvoiceBerry Blog</a> </p>
             </div>
                 </div>
             <br><br>
