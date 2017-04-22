@@ -6,7 +6,7 @@
 	<main class="main-content">
 		<div class="container">
 			<h1>hello, [sak pase?]<br>
-            my name is Jean Edouard Gustave,<br> i create stuff; mostly digital stuff.</h1>
+            my name is Jean Edouard Gustave,<br> i create stuff; mostly digital shit.<br> I'm an Art Director/Graphic Design and Partner at ANTEAN STUDIOS. </h1>
             
             <hr>
             <blockquote>"I always try to keep everything simple because the world has become too complex... and it perfectly works."</blockquote>
@@ -18,12 +18,12 @@
 			</p>
 
 			<p>
-				<b>Who I become?</b> I spoil my appetite on simple interfaces. I also love coding and illustration. Like all Haitian people I live off patriotic pride, I eat spicy and rice & bean every day! I also say “Sak pase? to greet my friends. I graduated from Florida State College at Jacksonville with a major in Digital Multimedia Technology and a minor in Graphic Design Production.
+				<b>Who I become?</b> I spoil my appetite on simple interfaces. I also love coding and illustration. Like all Haitian people I live off patriotic pride, I eat spicy and rice & bean every day! I also say “Sak pase?" to greet my friends. I graduated from Florida State College at Jacksonville with a major in Digital Multimedia Technology and a minor in Graphic Design Production.
 
 			</p>
 
 			<p>
-				<b>Now.</b> Currently, I am an Art Director and Partner at <a href="http://anteanstudios.com" target="_blank">ANTEAN STUDIOS</a> where I work for great clients and collaborate with amazing artists. When I’m not at Antean Studios loosing my mind, you may find me doing <a href="events.php">shows</a>, pushing on with <a href="http://viiatours.com" target="_blank"> VIIA TOURS</a> or doing personal projects.
+				<b>Now.</b> Currently, I am an Art Director and Partner at <a href="http://anteanstudios.com" target="_blank">ANTEAN STUDIOS</a> where I work for great clients and collaborate with amazing artists. When I’m not at Antean Studios loosing my mind, you may find me doing <a href="events">shows</a>, pushing on with <a href="http://viiatours.com" target="_blank"> VIIA TOURS</a> or doing personal projects.
 
 			</p>
 
