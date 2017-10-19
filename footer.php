@@ -9,7 +9,7 @@
             <br>
             <center><p><a href="https://www.instagram.com/explore/tags/iamjeanegustave/">#iamjeanegustave</a></p></center><br>
             <center><p style="color: white; font-size:1em;">Disclaimer: This web site and its content is protected under CC-Creative Commons License. The text, images, graphics and animation files that make up this site are all protected under the terms of the License.</p></center><br>
-            <center><p>&copy 2007 - 2016</p></center>
+            <center><p>&copy 2007 - 2017</p></center>
 			
 		</div>
 	</main>

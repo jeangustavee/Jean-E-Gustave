@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -27,6 +30,7 @@ a:hover {
 b {
     font-weight: bold;
 }
+
 /* -------------------------------- 
 
 Modules - reusable parts of our design
@@ -56,8 +60,8 @@ html, body {
   position: absolute;
   top: 0;
   left: 0;
-  background: rgba(97, 96, 102, 0.95);
-  height: 50px;
+  background: rgba(255,255,255, 0.95);
+  height: 70px;
   width: 100%;
   z-index: 5;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
@@ -135,7 +139,7 @@ html, body {
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
-  right: 10em;
+  right: 8em;
   /* hidden on small devices */
   display: none;
 }
@@ -145,9 +149,10 @@ html, body {
 }
 .secondary-nav a {
   display: inline-block;
-  color: white;
+  color: #616066;
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 1.3em;
 }
 @media only screen and (min-width: 768px) {
   .secondary-nav {
@@ -161,10 +166,11 @@ html, body {
   top: 0;
   height: 100%;
   width: 50px;
-  background-color: #616066;
+  background-color: transparent;
 }
 .primary-nav-trigger .menu-text {
-  color: white;
+  color: #616066;
+  font-size: 1.5rem;
   text-transform: uppercase;
   font-weight: 700;
   /* hide the text on small devices */
@@ -182,9 +188,9 @@ html, body {
   -ms-transform: translateX(-50%) translateY(-50%);
   -o-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  width: 18px;
-  height: 2px;
-  background-color: white;
+  width: 38px;
+  height: 3px;
+  background-color: #616066;
   -webkit-transition: background-color 0.3s;
   -moz-transition: background-color 0.3s;
   transition: background-color 0.3s;
@@ -194,17 +200,17 @@ html, body {
   width: 100%;
   height: 100%;
   position: absolute;
-  background-color: white;
+  background-color: #616066;
   right: 0;
   -webkit-transition: -webkit-transform .3s, top .3s, background-color 0s;
   -moz-transition: -moz-transform .3s, top .3s, background-color 0s;
   transition: transform .3s, top .3s, background-color 0s;
 }
 .primary-nav-trigger .menu-icon::before {
-  top: -5px;
+  top: -7px;
 }
 .primary-nav-trigger .menu-icon::after {
-  top: 5px;
+  top: 7px;
 }
 .primary-nav-trigger .menu-icon.is-clicked {
   background-color: rgba(255, 255, 255, 0);
@@ -249,7 +255,7 @@ html, body {
   }
   .primary-nav-trigger .menu-icon {
     left: auto;
-    right: 1em;
+    right: -1.5em;
     -webkit-transform: translateX(0) translateY(-50%);
     -moz-transform: translateX(0) translateY(-50%);
     -ms-transform: translateX(0) translateY(-50%);
@@ -386,25 +392,112 @@ html, body {
   }
 }
 
-.intro img {
-  position: absolute;
-  width: 20%;
-  max-width: 1170px;
-  left: 50%;
-  top: 50%;
-  bottom: auto;
-  right: auto;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  -moz-transform: translateX(-50%) translateY(-50%);
-  -ms-transform: translateX(-50%) translateY(-50%);
-  -o-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
+
+.hero h3 a {
+    color: gray;
 }
-@media only screen and (min-width: 768px) {
-  .intro h1 {
-    font-size: 30px;
-    font-size: 1.875rem;
+
+@media only screen and (min-width: 300px) {
+  .hero {
+    position: relative;
+  height: 800px;
+  background: url("../img/jeangustave-hero-media-overlay.png") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 1;
   }
+    
+    .text {
+    padding-top: 200px;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: white;
+        }
+    
+    .text h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: dark gray;
+    padding-bottom: 20px;
+        }
+    
+    .text h3 {
+    font-size: 1.8rem;
+    padding-bottom: 20px;
+    font-weight: bold;
+        }
+    
+    .text h5 {
+        font-size: 1.5rem;
+        padding-bottom: 20px;
+        }
+}
+
+@media only screen and (min-width: 490px) {
+    
+    .text {
+    padding-top: 200px;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: white;
+        }
+    
+    .text h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 2.8rem;
+    font-weight: bold;
+    color: dark gray;
+    padding-bottom: 20px;
+        }
+    
+    .text h3 {
+    font-size: 2rem;
+    padding-bottom: 20px;
+        }
+    
+    .text h5 {
+        font-size: 1.9rem;
+        padding-bottom: 20px;
+        }
+}
+
+@media only screen and (min-width: 1060px) {
+  .hero {
+  position: relative;
+  height: 100vh;
+  background: url("../img/jeangustave-hero.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 1;
+  }
+    
+    .text {
+        width: 60%;
+        padding-top: 0px;
+        float: right;
+        color: #616066;
+    }
+    
+  .text h1 {
+    font-size: 3.875rem;
+    padding-top: 180px;
+    padding-bottom: 20px;
+  }
+    
+    .text h3 {
+        font-size: 2.2rem;
+        padding-bottom: 20px;
+    }
+    
+    .text h5 {
+        font-size: 2rem;
+        padding-bottom: 30px;
+    }
 }
 /**
 @media only screen and (min-width: 1170px) {
@@ -417,10 +510,16 @@ html, body {
 .main-content {
   position: relative;
   z-index: 1;
+  padding-top: 50px;
 }
-.main-content h1 {
-    margin: 1em 0;
+.main-content h1 {margin: 1em 0;
     font-size: 2rem;
+    font-weight: 600;
+}
+.main-content h2 {
+    font-family: 'Permanent Marker', cursive;
+    margin: 1em 0;
+    font-size: 1.3rem;
     font-weight: 600;
 }
 .main-content p {
@@ -430,13 +529,11 @@ html, body {
 }
 @media only screen and (min-width: 1170px) {
   .main-content h1 {
-    font-size: 30px;
     font-size: 3.5rem;
   }
 }
 @media only screen and (min-width: 1170px) {
   .main-content p {
-    font-size: 20px;
     font-size: 1.75rem;
   }
 }
@@ -491,8 +588,7 @@ blockquote {
 }
 
 h2 {
-    display: block;
-    font-size: 1.5em;
+    font-size: 3.5em;
     margin-top: 0.83em;
     margin-bottom: 0.83em;
     margin-left: 0;
@@ -550,4 +646,330 @@ h2 {
 
 @media only screen and (max-width: 780px) {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
+}
+
+form {
+  margin: 0% auto;
+}
+
+
+.input {
+  display: ;
+  align-items: center;
+}
+
+
+.button {
+  height: ;
+  border-radius: 0px;
+}
+
+  
+#signup_email {
+  border: 1px solid #737373;
+  background: transparent;
+  font-family: inherit;
+  color: #737373;
+  letter-spacing: 1px;
+  text-indent: 5%;
+  padding: 1em; 
+  font-size: 16px;
+  width: 100%;
+    display: block;
+    border-radius: 0px;
+}
+
+
+#webform_submit_button {
+  border: 1px solid #053950;
+  background: #053950;
+  font-size: 16px;
+  color: lightgray;
+  padding: 1em;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 0px;
+  text-transform: uppercase;
+}
+  
+
+#webform_submit_button:hover {
+  border: 1px solid #053950;
+   background: transparent;
+}
+  
+
+input:focus {
+  outline: none;
+  outline: 2px solid darkgray;
+  box-shadow: 0 0 2px black;
+  border-radius: 0px;
+}
+
+/* FORM */
+form
+{
+  display: block;
+  margin: 0% auto;
+  overflow: hidden;
+  background: transparent;
+  border: none;
+  border-radius: none;
+  font-size: 0;
+}
+
+@media(min-width:800px){
+  form > div {
+    display: inline-block;
+  }
+  form > div.col-submit {
+    display: block;
+  }
+}
+
+form > div > label 
+{
+  display: block;
+  padding: 20px 20px 10px;
+  vertical-align: top;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #939393;
+  cursor: pointer;
+}
+
+form > div.col-1, div.col-2, form > div.col-3, form > div.col-4 {
+  border-bottom: 1px solid #616066;
+}
+
+@media(min-width: 800px){
+  form > div.col-1, div.col-2, form > div.col-3, form > div.col-4 { box-shadow: 1px 1px #616066; border: none; }
+}
+
+@media(min-width:800px){
+  form > div.col-1 {width: 100%}
+  form > div.col-2 { width: 50% }
+  form > div.col-3 { width: 33.3333333333% }
+  form > div.col-4 { width: 25% }
+}
+
+form > div > label > input
+{
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 37px;
+  line-height: 37px;
+  margin: 5px -5px 0;
+  padding: 7px 5px 3px;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  background: transparent;
+  font-size: 1.15em;
+  font-weight: 200;
+  opacity: .66;
+  transition: opacity .3s, box-shadow .3s;
+    text-transform: uppercase;
+}
+
+form > div.col-submit {
+  text-align: center;
+  padding: 20px;
+}
+
+form > div.col-submit button {
+  border: 1px solid #E4E4E4;
+  background: #053950 ;
+  font-size: 1.5em;
+  color: #fff;
+  padding: 1em;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  border: 0;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+@media(min-width: 800px){
+  form > div.col-submit button {
+    width: 30%;
+    margin: 0 auto;
+  }
+}
+
+form > div.col-submit button:hover {
+  background: transparent;
+}
+
+form > div > label > select
+{
+  display: block;
+  width: 100%;
+  margin: 16px 0 6px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1.15em;
+  font-weight: 200;
+  opacity: .33;
+}
+
+form > div > label > input:focus, form > div > label > select:focus {
+  opacity: 1;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, .15);
+}
+
+textarea {
+    border: none;
+	width: 100%;
+    height: 200px;
+    line-height: 17px;
+    margin: 5px -5px 0;
+    padding: 7px 5px 3px;
+    font-size: 1.15em;
+    opacity: .66;
+    transition: opacity .3s, box-shadow .3s;
+    text-transform: uppercase;
+    background-color: transparent;
+	}
+/* CSS for input button */
+@media (min-width: 800px) {
+  .col-submit input[type=submit] {
+    width: 30%;
+    margin: 0 auto;
+  }
+}
+
+input[type=submit] {
+  border: 1px solid #053950;
+  background: #053950;
+  font-size: 16px;
+  color: #fff;
+  padding: 1em;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 0px;
+  text-transform: uppercase;
+}
+
+input[type=submit]:hover {
+   border: 1px solid #053950;
+   background: transparent;
+}
+
+button1 {
+    background-color: transparent;
+    border: solid 3px white;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    font-family: sans-serif;
+}
+
+button1:hover {
+    background-color: white;
+    border: solid 3px white;
+    color: #2C7E58;
+    padding: 15px 32px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+}
+
+#square-launchfast {
+    border: 1px solid #616066;
+    padding: 50px;
+}
+
+button.accordion {
+    background-color: transparent;
+    color: #616066;
+    font-size: 1.3rem; 
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+button.accordion.active, button.accordion:hover {
+    background-color: transparent;
+    border: 1px solid #616066;
+}
+
+div.panel {
+    padding: 0 18px;
+    background-color: transparent;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    font-size: 1.20rem; 
+    border-bottom: 1px solid #616066;
+}
+
+button.accordion:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #616066;
+    float: right;
+    margin-left: 5px;
+}
+
+button.accordion.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+/* Style the tab buttons */
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 1.3rem;
+    width: 25%;
+}
+
+/* Change background color of buttons on hover */
+.tablink:hover {
+    background-color: #777;
+}
+
+/* Set default styles for tab content */
+.tabcontent {
+    color: #616066;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+/* Style each tab content individually */
+#thewill {background-color:transparent; border: 1px solid #616066;}
+#savings {background-color:transparent; border: 1px solid #616066;}
+#availability {background-color:transparent; border: 1px solid #616066;}
+#product {background-color:transparent; border: 1px solid #616066;}
+
+@media(max-width: 800px){
+  .tablink {
+    background-color: #555;
+    padding: 10px 10px;
+    font-size: 0.6rem;
+    width: 25%;
+  }
 }

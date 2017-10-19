@@ -11,18 +11,17 @@
 
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
-    <link rel="stylesheet" href="css/component.css"> <!-- Component styel -->
     <script src="js/snap.svg-min.js"></script>
   	
 	<title>Jean Edouard Gustave</title>
 </head>
 <body>
 	<header class="jg-header">
-		<div class="logo"><a href="/"><img src="img/Jean-logo.png" alt="Logo" width="29px"></a></div>
+		<div class="logo"><a href="/"><img src="img/jean-e-gustave.png" alt="Logo" width="160px"></a></div>
 
 		<nav>
 			<ul class="secondary-nav">
-				<li><a href="#">Shop</a></li>
+				<li><a href="launchfast">#LaunchFast</a></li>
 			</ul>
 		</nav> <!-- nav -->
 
@@ -43,7 +42,6 @@
 			<li class="label">Projects</li>
 
 			<li><a href="events">Events</a></li>
-			<li><a href="http://thebusinessdude.org" target="_blank">Podcast (Creole)</a></li>
             <li><a href="press">Press</a></li>
 			<!--<li><a href="#0">Film</a></li>
             <li><a href="#0">GHUST 86</a></li>-->
