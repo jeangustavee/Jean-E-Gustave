@@ -1,4 +1,5 @@
-<?php include("header.php"); ?>
+<?php include_once("send.php") ?>
+    <?php include("header.php"); ?>
 
 	<section class="hero">
         <div class="text">
