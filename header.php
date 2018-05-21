@@ -18,10 +18,10 @@
 <body>
 	<header class="jg-header">
 		<div class="logo"><a href="/"><img src="img/jean-e-gustave.png" alt="Logo" width="160px"></a></div>
-
+<!--
 		<nav>
 			<ul class="secondary-nav">
-				<li><a href="launchfast">#LaunchFast</a></li>
+				<li><a href="shop">Shop</a></li>
 			</ul>
 		</nav> <!-- nav -->
 
@@ -35,15 +35,14 @@
 			<li class="label">Creative</li>
 
             <li><a href="illustration">Minimalism</a></li>
-            <li><a href="http://anteanstudios.com" target="_blank">Work</a></li>
 			<li><a href="books">Books</a></li>
 			<li><a href="blog">Blog</a></li>
 
 			<li class="label">Projects</li>
 
 			<li><a href="events">Events</a></li>
-            <li><a href="press">Press</a></li>
-			<!--<li><a href="#0">Film</a></li>
+            <!--<li><a href="press">Press</a></li>
+			<li><a href="#0">Film</a></li>
             <li><a href="#0">GHUST 86</a></li>-->
 
 			<li class="label">Follow me</li>
