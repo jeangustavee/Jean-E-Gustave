@@ -6,7 +6,7 @@
 	<main class="main-content">
 		<div class="container">
 			<h1>hello, [sak pase?]<br>
-            my name is Jean Edouard Gustave,<br> i create stuff; mostly digital shit.<br> I'm an Art Director and UI/UX Designer. </h1>
+            my name is Jean Edouard Gustave,<br> i create stuff; mostly digital shit.<br> I'm a UI Designer and Developer. </h1>
             
             <hr>
             <blockquote>"I always try to keep everything simple because the world has become too complex... and it perfectly works."</blockquote>
@@ -23,12 +23,12 @@
 			</p>
 
 			<p>
-				<b>Now.</b> Currently, I work as a Front End Developper/Designer at <a href="https://remorainc.com" target="_blank">Remora Inc.</a> When I’m not at work loosing my mind, you may find me doing <a href="events">shows,</a> <a href="http://thejannband.com" target="_blank"> music</a> or doing personal projects.
+				<b>Now.</b> Currently, I work as a Front End Developer/Designer at <a href="https://remorainc.com" target="_blank">Remora Inc.</a> When I’m not at work loosing my mind, you may find me doing <a href="events">shows,</a> <a href="http://thejannband.com" target="_blank"> music</a> or doing personal projects.
 
 			</p>
 
 			<p>
-				<b>What’s next?</b> If you would like to work with me or would like to collaborate, <a href="mailto:jean.egustave@gmail.com">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a>. Don't you think we could change the world?
+				<b>At the moment, I'm not taking on perosnal projects.</b> However, <a href="mailto:jean.egustave@gmail.com">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a> if you would like to talk. Don't you think we could change the world?
 
 			</p>
 			
