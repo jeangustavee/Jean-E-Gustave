@@ -17,7 +17,7 @@
 </head>
 <body>
 	<header class="jg-header">
-		<div class="logo"><a href="/"><img src="img/jean-e-gustave.png" alt="Logo" width="160px"></a></div>
+		<div class="logo"><a href="/"><img src="img/jean-gustave-logo.png" alt="Logo" width="60px"></a></div>
 <!--
 		<nav>
 			<ul class="secondary-nav">
@@ -47,10 +47,10 @@
 
 			<li class="label">Follow me</li>
 			
-			<li class="cd-social cd-facebook"><a href="http://facebook.com/jeangustavee">Facebook</a></li>
-			<li class="cd-social cd-instagram"><a href="http://instagram.com/iamjeanegustave">Instagram</a></li>
-			<li class="cd-social cd-dribbble"><a href="https://dribbble.com/jeangustavee">Dribbble</a></li>
-			<li class="cd-social cd-twitter"><a href="http://twitter.com/jeangustavee">Twitter</a></li>
+			<li class="cd-social cd-facebook"><a href="http://facebook.com/jeangustavee" target="_blank">Facebook</a></li>
+			<li class="cd-social cd-instagram"><a href="http://instagram.com/iamjeanegustave" target="_blank">Instagram</a></li>
+			<li class="cd-social cd-dribbble"><a href="https://dribbble.com/jeangustavee" target="_blank">Dribbble</a></li>
+			<li class="cd-social cd-twitter"><a href="http://twitter.com/jeangustavee" target="_blank">Twitter</a></li>
 		</ul>
 	</nav>
             
