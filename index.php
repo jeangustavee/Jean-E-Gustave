@@ -1,37 +1,49 @@
 <?php include("header.php"); ?>
 
 	<section class="intro">
+    <div class="left-side">
+           <div class="left-paragraph">
+            <p>BEEN BUSY &nbsp;&nbsp; <img src="img/line.png" width="130px"> &nbsp;&nbsp; <a href="blog.php">BLOG</a> </p>
+            </div>
+            <div class="intro-img-instagram">
+            <a href="#" target="_blank"> <img src="img/instagram.png" width="40px"></a>
+            <br><br>
+            <a href="#" target="_blank"> <img src="img/twitter.png" width="40px"></a>
+        </div>
+    </div>
+	    <div class="intro-side">
+	        <h2>八
+	        十
+	        六</h2>
+	        <h1><b>Currently at Remora</b><br>
+	        Front-End Designer
+	        </h1>
+	        <p>Part-time musician, photographer, artist, designer, blogger, author, filmmaker, activist, creator and illustrator.</p>
+	    </div>
 	</section>
 
 	<main class="main-content">
 		<div class="container">
 			<h1>hello, [sak pase?]<br>
-            my name is Jean Edouard Gustave,<br> i create stuff; mostly digital shit.<br> I'm a UI Designer and Developer. </h1>
+            my name is Jean Edouard Gustave, i create stuff; mostly digital shit. </h1>
             
-            <hr>
-            <blockquote>"I always try to keep everything simple because the world has become too complex... and it perfectly works."</blockquote>
-            <hr>
-            
-            <p>
-				<b>Identity.</b> It’s very challenging to define what I am. Although I’m more comfortable in a UI/UX designer/art director’s shoes, other creative entities don’t cease to invade my intellect. My persona is what separates me from others. Rather than pursuing dough, advancing status, winning awards, I prefer to create and work on projects I enjoy doing, keep challenging myself, and do interesting things that matter.
+            <p>I was born and raised in Haiti, moved to the States when I was 21 and currently living in Jacksonville, Fl. It’s hard to define what I am, but I sure know where I’m headed with my life.</p>
 
-			</p>
-
-			<p>
-				<b>Who I become?</b> I spoil my appetite on simple interfaces. I also love coding and illustration. Like all Haitian people I live off patriotic pride, I eat spicy and rice & bean every day! I also say “Sak pase?" to greet my friends. I graduated from Florida State College at Jacksonville with a major in Digital Multimedia Technology and a minor in Graphic Design Production.
-
-			</p>
-
-			<p>
-				<b>Now.</b> Currently, I work as a Front End Developer/Designer at <a href="https://remorainc.com" target="_blank">Remora Inc.</a> When I’m not at work loosing my mind, you may find me doing <a href="events">shows,</a> <a href="http://thejannband.com" target="_blank"> music</a> or doing personal projects.
-
-			</p>
-
-			<p>
-				<b>At the moment, I'm not taking on perosnal projects.</b> However, <a href="mailto:jean.egustave@gmail.com">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a> if you would like to talk. Don't you think we could change the world?
-
-			</p>
-			
+            <p>I’m a full time Front End Designer-Developer at Remora Inc. When I’m not working, I do a lot of shits on the side. If you heard The Jann Band around, it’s probably me. I was chosen by photography, innate illustrator, passionate filmmaker, wannabe blogger, published author, characterial activist, trained multimedia artist and designer, bizarre creator.</p>
+		</div>
+		<div class="wrapper">
+		    <div class="column-zero">
+		    <h1>What I'm up to</h1>
+		    </div>
+		    <div class="column-one">
+		        <h1>Music</h1>
+		    </div>
+		    <div class="column-two">
+		        <h1>Side Project</h1>
+		    </div>
+		    <div class="column-three">
+		        <h1>Weekends</h1>
+		    </div>
 		</div>
 	</main>
 
