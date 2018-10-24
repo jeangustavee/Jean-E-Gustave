@@ -36,7 +36,7 @@
 
             <li><a href="illustration">Minimalism</a></li>
 			<li><a href="books">Books</a></li>
-			<li><a href="blog">Blog</a></li>
+			<li><a href="https://medium.com/@iamjeanegustave" target="_blank">Medium</a></li>
 
 			<li class="label">Projects</li>
 
@@ -49,8 +49,8 @@
 			
 			<li class="cd-social cd-facebook"><a href="http://facebook.com/jeangustavee" target="_blank">Facebook</a></li>
 			<li class="cd-social cd-instagram"><a href="http://instagram.com/iamjeanegustave" target="_blank">Instagram</a></li>
-			<li class="cd-social cd-dribbble"><a href="https://dribbble.com/jeangustavee" target="_blank">Dribbble</a></li>
-			<li class="cd-social cd-twitter"><a href="http://twitter.com/jeangustavee" target="_blank">Twitter</a></li>
+			<li class="cd-social cd-dribbble"><a href="https://dribbble.com/jeanegustave" target="_blank">Dribbble</a></li>
+			<li class="cd-social cd-twitter"><a href="https://twitter.com/iamjeanegustave" target="_blank">Twitter</a></li>
 		</ul>
 	</nav>
             

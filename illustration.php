@@ -111,16 +111,6 @@ body { font-family: sans-serif; }
 </div>
 <br><br><br>
 
-<main class="main-content">
-    <div class="container">
-<p>
-				<b>What’s next?</b> If you would like to work with me or would like to collaborate, <a href="">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a>. Don't you think we could change the world?.
-
-			</p>
-			
-    </div>
-</main>
-
 
 
 <script>

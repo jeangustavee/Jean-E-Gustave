@@ -3,10 +3,10 @@
             <hr>
             <br><br><br><br><br>
             <p>
-				<b>At the moment, I'm not taking on perosnal projects.</b> However, <a href="mailto:jean.egustave@gmail.com">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a> if you would like to talk. Don't you think we could change the world?
+				<b>At the moment, I'm not accepting freelance work.</b> However, <a href="mailto:jean.egustave@gmail.com">send me an email</a> if you would like to get coffee (I drink tea) or talk. so don’t hesitate to get in touch.
 
 			</p>
-            <p><b>Get in touch? </b>Want to grab a drink and chat?</p>
+            <p><b>Get in touch? </b></p>
             <center><a class="button" href="mailto:jean.egustave@gmail.com"><span>LET'S TALK</span></a></center>
             <br>
             <center><p><a href="https://www.instagram.com/explore/tags/iamjeanegustave/">#iamjeanegustave</a></p></center><br>

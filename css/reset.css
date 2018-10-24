@@ -28,7 +28,9 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	font-size: 1.30rem;
+  font-family: "Source Sans Pro", sans-serif;
+  text-decoration: none;
 }
 blockquote, q {
 	quotes: none;

@@ -61,6 +61,7 @@ html, body {
   top: 0;
   left: 0;
   background: rgba(198,201,208, 0.95);
+  background: none;
   height: 70px;
   width: 100%;
   z-index: 5;
@@ -406,9 +407,8 @@ html, body {
     font-weight: 500;
 }
 .main-content h2 {
-    font-family: 'Permanent Marker', cursive;
     margin: 1em 0;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     font-weight: 500;
 }
 .main-content p {
@@ -488,10 +488,10 @@ h2 {
    h2 {
     font-size: 2.5rem;
   }
-        .intro .intro-side h2{
+    .intro .intro-side h2{
     color: blue;
     font-size: 1.5rem;
-    margin: 10px;
+    margin-top: 180px;
 }
 }
 
@@ -604,69 +604,16 @@ h2 {
 
 .intro-img-instagram {
     position: absolute;
-    bottom: 20px;
+    bottom: 40px;
     display:inline-block;
     margin:0 15px
     }
 }
 
-* {box-sizing: border-box;}
-
-.wrapper{
-    max-width: 90%;
-    margin: 0 auto;
+@media only screen and (max-width: 500px){
+  .intro .left-paragraph{display: none}
 }
 
-.wrapper > div {
-  padding: 1em;
-  color: #d9480f;
+@media only screen and (max-width: 667px){
+  .intro-img-instagram{display: none}
 }
-
-.column-zero {
-    background-color: #4993FC;
-    grid-column: 1;
-    grid-area: what;
-}
-
-.column-one {
-    grid-column: 2;
-    grid-area: music;
-    background: #FB675A;
-}
-
-.column-two {
-    grid-column: 3;
-    grid-area: side; /* side-projects */
-    background: #42D3F1;
-}
-
-.column-three {
-    grid-column: 4;
-    grid-area: weekends;
-    background:#41E878;
-}
-.wrapper {
-  display: grid;
-/*  grid-template-columns: repeat(4, 1fr);*/
-    grid-template-areas: 
-        "what"
-        "music"
-        "side"
-        "weekends";
-  grid-gap: 0px;
-  grid-auto-rows: minmax(100px, auto);
-}
-
-@media only screen and (min-width: 768px) {
-    .wrapper {
-        grid-template-columns: 150px 1fr 1fr 1fr;
-        grid-auto-rows: 350px;
-        grid-template-areas: 
-            " what music side weekends"; /* side by side */
-    }
-}
-
-.wrapper .column-zero h1{
-    writing-mode: vertical-lr;
-}
-
