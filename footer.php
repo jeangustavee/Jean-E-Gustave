@@ -1,23 +1,21 @@
-<main class="main-content">
+<div class="footer">
 		<div class="container">
-            <hr>
-            <br><br><br><br><br>
             <p>
-				<b>At the moment, I'm not taking on perosnal projects.</b> However, <a href="mailto:jean.egustave@gmail.com">send me an email</a> or contact my agent <a href="http://topkreyol.com/jeanegustave">TopKreyol</a> if you would like to talk. Don't you think we could change the world?
-
+				<b>At the moment, I'm not accepting freelance work.</b> However, <a href="mailto:jean.egustave@gmail.com">send me an email</a> if you would like to get coffee (I drink tea) or talk. so don’t hesitate to get in touch.
 			</p>
-            <p><b>Get in touch? </b>Want to grab a drink and chat?</p>
-            <center><a class="button" href="mailto:jean.egustave@gmail.com"><span>LET'S TALK</span></a></center>
+            <p><b>Get in touch? </b></p>
+            <a class="button" href="mailto:jean.egustave@gmail.com"><span>LET'S TALK</span></a>
             <br>
-            <center><p><a href="https://www.instagram.com/explore/tags/iamjeanegustave/">#iamjeanegustave</a></p></center><br>
-            <center><p style="color: white; font-size:1em;">Disclaimer: This web site and its content is protected under CC-Creative Commons License. The text, images, graphics and animation files that make up this site are all protected under the terms of the License.</p></center><br>
-            <center><p>&copy 2007 - 2018</p></center>
+            <p><a href="https://www.instagram.com/explore/tags/iamjeanegustave/">#iamjeanegustave</a></p><br>
+            <p class="disclaimer">Disclaimer: This web site and its content is protected under CC-Creative Commons License. The text, images, graphics and animation files that make up this site are all protected under the terms of the License.</p><br>
+            <p>&copy 2007 - 2019<br>Made in Haiti</p>
 			
 		</div>
-	</main>
+</div>
 
 <script src="js/jquery-2.1.1.js"></script>
-<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script src="js/main.js"></script> 
+<script src="js/scrolling.js"></script> <!-- Resource jQuery -->
     
     <script>
 			(function() {
