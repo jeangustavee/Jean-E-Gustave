@@ -25,8 +25,8 @@ th {
 <main class="main-content">
 		<div class="container">
 			<center><h1>EVENTS</h1>
-            <p>I’m extremely passionate about the Web and love talking about it. If you’re interested in having me 
-                speak or conduct a workshop at your conference, company, event, bar mitzvah or rodeo, <a href="mailto:jean.egustave@gmail.com"> please contact me.</a></p>
+            <p>I’m extremely passionate about the Web and community development; and love talking about them. If you’re interested in having me 
+                speak or conduct a workshop. <a href="mailto:jean.egustave@gmail.com"> please contact me.</a></p>
             </center><hr>
             <br><br>
             
